@@ -6,3 +6,6 @@ Este é um repositório teste para aprender como o Git funciona.
 
 Saiba mais em [Panambi](linkedin.com/in/panambi)
 
+
+Gostou do curso? Quer mais? Ajude com uma doação. Até um café é válido ;)
+
